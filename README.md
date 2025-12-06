@@ -2,6 +2,10 @@
 
 A minimalistic, clean single-page website for cancer awareness.
 
+## Live Demo
+
+[View Live Site](https://hope-care-e20w2sxrm-kusheen8s-projects.vercel.app/)
+
 ## Features
 
 - **Landing Section**: Beautiful banner with HopeCare title and inspiring message
